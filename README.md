@@ -65,4 +65,3 @@ ML/AI:            PyTorch, TensorFlow, HuggingFace, LLMs (I bribe GPUs for atten
 
 *If you’ve read this far, you’re either really impressed, really confused, or recruiting. Either way—hi.* 👋
 
-```
