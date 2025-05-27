@@ -23,7 +23,7 @@ I'm the guy who builds IoT firmware in the morning, optimizes AI pipelines by lu
 
 ## ⚙️ Tech I Don’t Just List on My Resume (I actually use it)
 
-
+```bash
 Languages:        Go, Python, C++, C, JS/TS, Dart (a.k.a the league of syntactic chaos)
 Frontend:         React, Next.js, Angular, Flutter (I touch grass… rarely)
 Backend:          FastAPI, Fiber, Flask, Node.js (REST or RESTless)
@@ -32,7 +32,7 @@ Cloud:            AWS, Azure, GCP (No loyalty, just uptime)
 DevOps:           Docker, Kubernetes, CI/CD, Prometheus (because I love YAML pain)
 Embedded:         OpenWRT, UART, SPI, I2C, Linux Kernel (yes, I void warranties)
 ML/AI:            PyTorch, TensorFlow, HuggingFace, LLMs (I bribe GPUs for attention)
-
+```
 ## 🧠 Side Quests / Projects / Things That Broke Me (in a good way)
 
 * `Strakz-Kernel`: My love letter to Android devices. Kernel so optimized, it bench-presses your battery life.
